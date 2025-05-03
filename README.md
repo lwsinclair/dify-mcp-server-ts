@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/faiz-gear-dify-mcp-server-ts-badge.png)](https://mseep.ai/app/faiz-gear-dify-mcp-server-ts)
+
 # Dify MCP Server (TypeScript)
 [![smithery badge](https://smithery.ai/badge/@faiz-gear/dify-mcp-server-ts)](https://smithery.ai/server/@faiz-gear/dify-mcp-server-ts)
 
